@@ -13,9 +13,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from sklearn.pipeline import Pipeline
 
-from data_preprocessing import preprocess_data
-from feature_engineering import build_feature_pipeline
-from generate_demo_data import generate_demo_dataset
+from src.data_preprocessing import preprocess_data
+from src.feature_engineering import build_feature_pipeline
+from src.generate_demo_data import generate_demo_dataset
 
 def train_and_evaluate():
     # 1. Check if dataset exists, if not generate it
