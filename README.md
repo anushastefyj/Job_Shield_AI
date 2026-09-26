@@ -27,6 +27,10 @@ flowchart TD
     J --> L
     K --> L
 ```
+<img width="1901" height="917" alt="image" src="https://github.com/user-attachments/assets/68a98699-57f3-4d15-8cee-93d14320af99" />
+<img width="1902" height="912" alt="image" src="https://github.com/user-attachments/assets/01e34932-bce1-4a1c-a1ae-6516f872a092" />
+
+
 
 ## Problem Statement
 
